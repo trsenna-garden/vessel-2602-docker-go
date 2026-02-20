@@ -4,7 +4,7 @@ Este projeto faz parte da minha trilha de estudos no vessel. O objetivo principa
 
 ## 🎯 O Desafio
 
-1. Criar um programa em Go que imprima: Full Cycle Rocks!!
+1. Criar um programa em Go que imprima: Full Cycle Rocks!!!
 2. Gerar uma imagem Docker para esse programa
 3. Restrição: A imagem final deve ter menos de 2MB
 
